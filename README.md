@@ -1,2 +1,2 @@
-# PCVK_Genap_2021
+# PCVK_Ganjil_2023
 Matakuliah Pengolahan Citra dan Visi Komputer Semester 5
